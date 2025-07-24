@@ -8,7 +8,7 @@ leveraging machine learning techniques to suggest **personalized movie choices**
 
 ## 📂 **Project Structure**
 
-![Structure](Screenshots/Structure.png)
+![Structure](Screenshots\Screenshots\Structure.png)
 
 ---
 
@@ -40,15 +40,17 @@ leveraging machine learning techniques to suggest **personalized movie choices**
 ## 🚀 **How to Run Locally**
 
 ### 1️⃣ Clone the repository
-git clone  
+git clone https://github.com/SARVESH0717/Movise.git
 
 ### 2️⃣ Set up a virtual environment
 <!-- For Windows: -->
-python -m venv venv
+python -m venv venv  
+
 venv\Scripts\activate 
 
 <!-- macOS/Linux: -->
-python3 -m venv venv
+python3 -m venv venv  
+
 source venv/bin/activate
 
 ### 3️⃣ Install dependencies
