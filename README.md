@@ -8,7 +8,7 @@ leveraging machine learning techniques to suggest **personalized movie choices**
 
 ## 📂 **Project Structure**
 
-![Structure](Screenshots\Structure.png)
+![Structure](Screenshots/Structure.png)
 
 ---
 
