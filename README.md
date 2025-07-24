@@ -6,12 +6,6 @@ leveraging machine learning techniques to suggest **personalized movie choices**
 
 ---
 
-## 📂 **Project Structure**
-
-![Structure](Screenshots/Structure.png)
-
----
-
 ## 🖥️ **Features**
 
 - 🎯 **Content-Based Filtering** — Uses genre, actors, directors, and plot keywords.
